@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+body {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+canvas {
+  border: 1px solid green;
+}
+
+button {
+    cursor: pointer;
+  width: 90px;
+  height: 40px;
+  background-color: #9fd9b7;
+  border: 1px solid black;
+  font-family: 'Open Sans', sans-serif;
+
+button:hover {
+  background-color: green ;
+  font-family: 'Open Sans', sans-serif;
+}
